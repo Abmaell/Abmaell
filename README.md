@@ -4,6 +4,7 @@
 </p>
 
 🚀 Sobre Mim
+
 Estudante de Gestão da Tecnologia da Informação (GTI) na UniCesumar, com um objetivo claro: me tornar um Gerente de Projetos de TI de sucesso e um profissional completo. Minha missão é aprender continuamente e aplicar meus conhecimentos para construir soluções de valor, liderando com integridade, perseverança e criatividade.
 
 🎓 Cursando: Gestão da Tecnologia da Informação (GTI) - EAD na UniCesumar
