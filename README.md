@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Abmael!
+👋🏻 Olá, eu sou o Abmael!
 <p align="center">
 <em>Aspirante a Gerente de Projetos de TI e um eterno aprendiz, apaixonado por transformar ideias em soluções de impacto através da tecnologia e criatividade.</em>
 </p>
